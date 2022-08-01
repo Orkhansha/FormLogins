@@ -1,0 +1,37 @@
+.login{
+    text-align: center;
+    color: chartreuse;
+    background-image: linear-gradient( rgb(85, 6, 6), red,rgb(46, 54, 46));
+    width: 400px;
+    margin-left: 30;
+}
+
+.login .general input{
+    width: 300px;
+    height: 30px;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+    background-color: blue rgb(2, 40, 71);
+}
+body {
+    display: block;
+    margin: 10px;
+    border: #ff0000;
+}
+h5 {
+    color: rgb(194, 187, 187);
+    display: block;
+    font-size: 0.85em;
+    font-weight: bolder;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30%;
+    width: 555px;
+    height: 377px;
+    background-color: aqua;
+}

@@ -1,0 +1,41 @@
+h1{
+    margin-top: 10px;
+    text-align: center;
+}
+.all{
+    background-color: white;
+    width: 700px;
+    text-align: center;
+    height: 715px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.all.general{
+    text-align: left;
+    margin-left: 88px;
+    width: 300px;
+    height: auto;
+}
+
+.background{
+    background-color: rgb(214, 228, 228);
+    width: 800px;
+    height: 850px;
+}
+input[type="submit" i] {
+    align-items: flex-start;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(51, 10, 231);
+    color: white;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-image: initial;
+}
+form {
+    display: block;
+    margin-top: 10px;
+    margin-left: 85px;
+    text-align: left;
+}
